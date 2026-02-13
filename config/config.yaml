@@ -1,0 +1,6 @@
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URLL: URL Link
+  Unzip_dir: artifacts/data_ingestion
